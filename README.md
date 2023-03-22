@@ -57,7 +57,7 @@ than 10 test cases is the plus.
 Github account.
 
 ## Technical guidelines
-* Ensure you have latest node.js and yarn installed
+* Ensure you have latest node.js and yarn packages installed
 * commands
     ```
     yarn install
